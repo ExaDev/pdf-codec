@@ -1,5 +1,7 @@
 # pdf-codec
 
+> **This repository has moved.** `pdf-codec` now lives at [`packages/pdf-codec`](https://github.com/ExaDev/documents.js/tree/main/packages/pdf-codec) in the [`ExaDev/documents.js`](https://github.com/ExaDev/documents.js) monorepo. This repository is archived and will receive no further commits, releases, issues, or pull requests — file issues and send pull requests against the monorepo instead. The npm package itself is unaffected: `pdf-codec` keeps publishing from its new home under the same name.
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ExaDev/pdf-codec) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/pdf-codec) [![Release](https://img.shields.io/github/v/release/ExaDev/pdf-codec)](https://github.com/ExaDev/pdf-codec/releases/latest) [![CI](https://img.shields.io/github/actions/workflow/status/ExaDev/pdf-codec/ci.yml?branch=main)](https://github.com/ExaDev/pdf-codec/actions)
 
 > A hand-written, dependency-minimal PDF codec: parses arbitrary real-world PDFs into a structured, positioned-content document and generates new PDFs from one, built on its own codec-owned `LayoutDocument` item model and [Zod 4](https://zod.dev) codecs.
